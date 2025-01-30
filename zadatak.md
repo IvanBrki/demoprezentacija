@@ -1,1 +1,7 @@
 ovo je `in line kod`
+
+``` blok koda```
+
+![slika](https://upload.wikimedia.org/wikipedia/commons/2/20/CedricKipre.jpg)
+
+[google](https://www.google.co.uk/)
